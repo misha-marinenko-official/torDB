@@ -1,0 +1,24 @@
+{
+  "name": "tordb",
+  "version": "0.0.01",
+  "description": "Tor links database. Written on Node.js using express and lowdb.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": "https://github.com/misha-marinenko-official/torDB.git",
+  "author": "Misha Marinenko <a0x77@icloud.com>",
+  "license": "MIT",
+  "keywords": [
+    "tor",
+    "database",
+    "lowdb",
+    "db",
+    "api",
+    "express",
+    "node",
+    "nodejs",
+    "web"
+  ],
+  "private": false
+}
